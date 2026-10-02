@@ -129,4 +129,4 @@ Each `src/weekly/weekN_bo.py` reads the data snapshot available at the time (`da
 
 ## Contact
 
-GitHub: [@JasonTheModel](https://github.com/JasonTheModel)
+GitHub: [@JasonThMdl](https://github.com/JasonThMdl)
